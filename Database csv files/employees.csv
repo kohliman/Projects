@@ -1,0 +1,21 @@
+EmployeeID;FirstName;LastName;DateOfBirth;Gender;Email;PhoneNumber;Address;HireDate;DepartmentID;PositionID
+1;Sophie;Anderson;93-03-22;Female;sophie.anderson@example.com;1234567890;123 Oak St;20-01-01;1;1
+2;Mason;Lee;88-07-15;Male;mason.lee@example.com;9876543210;456 Pine St;21-02-01;2;2
+3;Evelyn;Smith;90-11-10;Female;evelyn.smith@example.com;5556667777;789 Elm St;21-03-15;3;3
+4;Logan;Williams;95-04-01;Male;logan.williams@example.com;1112223333;101 Maple St;22-04-01;4;4
+5;Grace;Jones;92-08-25;Female;grace.jones@example.com;4445556666;202 Cedar St;20-07-01;5;5
+6;Henry;Moore;86-02-18;Male;henry.moore@example.com;9998887777;303 Birch St;21-08-15;1;6
+7;Lily;Gonzalez;91-06-28;Female;lily.gonzalez@example.com;3332221111;404 Oak St;22-02-01;2;7
+8;Oliver;Davis;89-09-05;Male;oliver.davis@example.com;6667778888;505 Pine St;20-09-01;3;8
+9;Zoe;Taylor;93-12-12;Female;zoe.taylor@example.com;2223334444;606 Maple St;21-10-15;4;9
+10;Elijah;Harris;94-05-22;Male;elijah.harris@example.com;7778889999;707 Elm St;22-11-01;5;10
+11;Aria;Thomas;87-10-03;Female;aria.thomas@example.com;1119993333;808 Oak St;20-12-15;1;1
+12;Jackson;Brown;91-04-14;Male;jackson.brown@example.com;4447771111;909 Pine St;22-01-01;2;2
+13;Scarlett;White;90-09-08;Female;scarlett.white@example.com;9993335555;102 Maple St;22-02-15;3;3
+14;Lucas;Johnson;88-03-30;Male;lucas.johnson@example.com;6662228888;303 Cedar St;22-03-01;4;4
+15;Chloe;Clark;91-05-17;Female;chloe.clark@example.com;3338887777;404 Elm St;21-04-15;5;5
+16;Wyatt;Anderson;87-08-20;Male;wyatt.anderson@example.com;5551119999;505 Maple St;22-05-01;1;6
+17;Avery;Perez;93-11-25;Female;avery.perez@example.com;2225554444;606 Birch St;20-06-15;2;7
+18;Zachary;Gonzalez;95-02-10;Male;zachary.gonzalez@example.com;7775553333;707 Pine St;21-07-01;3;8
+19;Madison;Lewis;89-04-05;Female;madison.lewis@example.com;4449991111;808 Oak St;22-08-15;4;9
+20;Carter;Smith;92-07-12;Male;carter.smith@example.com;9994442222;909 Birch St;22-09-01;5;10
